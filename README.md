@@ -1,4 +1,4 @@
 # atom-writing-env
 
-Setupt your atom writing environement !
+Setupt your atom writing environment !
 
