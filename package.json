@@ -1,0 +1,36 @@
+{
+  "name": "atom-writing-env",
+  "description": "Setup your writing env!",
+  "version": "0.0.0",
+  "main": "./lib/main",
+  "keywords": [
+    "markdown",
+    "asciidoc",
+    "MakeMD",
+    "writer"
+  ],
+  "repository": "https://github.com/Eonm/atom-writing-env",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.5.3 <2.0.0"
+  },
+  "dependencies": {
+    "atom-package-deps": "~4.0.1"
+  },
+  "devDependencies": {
+    "coffeelint": "^1.15.0"
+  },
+  "package-deps": [
+    "save-autorun",
+    "wordcount",
+    "autocomplete-bibtex",
+    "language-markdown",
+    "markdown-preview-plus",
+    "typewriter",
+    "asciidoc-preview",
+    "asciidoc-assistant",
+    "language-asciidoc",
+    "autocomplete-asciidoc",
+    "academic-markdown"
+  ]
+}
