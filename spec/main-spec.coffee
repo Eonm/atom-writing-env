@@ -1,17 +1,17 @@
 
-describe 'asciidoc-assistant', ->
+describe 'atom-writing-env', ->
 
   mainModule = null
 
   beforeEach ->
 
     waitsForPromise ->
-      atom.packages.activatePackage 'asciidoc-assistant'
+      atom.packages.activatePackage 'atom-writing-env'
         .then (pack) ->
           mainModule = pack.mainModule
           return
 
-    describe 'when the asciidoc-assistant package is activated', ->
+    describe 'when the atom-writing-env package is activated', ->
 
       it 'activates successfully', ->
         expect(mainModule).toBeDefined()

@@ -21,7 +21,6 @@
     "coffeelint": "^1.15.0"
   },
   "package-deps": [
-    "save-autorun",
     "wordcount",
     "autocomplete-bibtex",
     "language-markdown",
