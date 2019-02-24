@@ -1,4 +1,8 @@
-# Package request
+  ---
+title: 'Package request'
+labels: submit a package
+assignees: Eonm
+  ---
 
 **Package name:**
 
