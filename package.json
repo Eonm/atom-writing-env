@@ -1,7 +1,7 @@
 {
   "name": "atom-writing-env",
   "description": "Setup your writing env!",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "./lib/main.js",
   "keywords": [
     "markdown",
