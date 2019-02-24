@@ -21,6 +21,6 @@ The following atom packages will be installed :
 
 To suggest a package create an [issue](https://github.com/Eonm/atom-writing-env/issues/new?assignees=Eonm&labels=submit+a+package&template=package-submition-template.md&title=Package+request)
 
-## Found an bug ?
+## Found a bug ?
 
 Open an [issue](https://github.com/Eonm/atom-writing-env/issues/new?assignees=Eonm&labels=bug&template=bug_report.md&title=)
