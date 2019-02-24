@@ -1,8 +1,11 @@
-  ---
-title: 'Package request'
+---
+name: package_submition_template
+about: Request a new package
+title: Package request
 labels: submit a package
 assignees: Eonm
-  ---
+
+---
 
 **Package name:**
 
